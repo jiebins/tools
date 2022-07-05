@@ -1,0 +1,1 @@
+export default {"国家":["英国","法国","中国"],"Title1":["English","Franch","China"],"Title2":["e","f","c"],"Title3":["n","r","h"],"Title4":["g","a","i"],"Other":[123,456,789]}
