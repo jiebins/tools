@@ -2,7 +2,7 @@
 some useful tools for my development.
 # xlsx-to-json
 
-To transform the xlsx file to json file, I develop a tool which use "node-xlsx".
+To transform the xlsx file to json file, the tool which use "node-xlsx" is developed.
 
 ### Usage
 
